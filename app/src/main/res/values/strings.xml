@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica9</string>
+    <string name="loginMsg">Inicio de Sesión</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+</resources>
